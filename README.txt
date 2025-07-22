@@ -1,4 +1,4 @@
-<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+"<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
 <script>
   window.googletag = window.googletag || {cmd: []};
   googletag.cmd.push(function() {
@@ -13,4 +13,4 @@
   <script>
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1734012966693-0'); });
   </script>
-</div>
+</div>"
